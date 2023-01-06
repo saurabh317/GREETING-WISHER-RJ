@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+.container{
+  background:linear-gradient(30deg, rgb(223, 147, 147) ,rgb(122, 187, 225));
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+ .Greeting{
+  font-size: 6rem;
+  text-align: center;
+ } 
